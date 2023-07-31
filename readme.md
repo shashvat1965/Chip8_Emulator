@@ -1,10 +1,10 @@
-This a Chip 8 Emulator written in C++. It follows Cowgod's reference
+This is a Chip 8 Emulator written in C++. It follows Cowgod's reference.
 
 # Requirements
-SDL Library, you can install is using brew on macos or any other package manager that you like
+SDL Library, you can install it using brew on macOS or any other package manager that you like
 
 # How to build
-build file is already present but here are the steps if you want to build it on your own
+build file is already present, but here are the steps if you want to build it on your own
 
 ```
 mkdir build
